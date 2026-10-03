@@ -1,0 +1,4 @@
+# Add these to requirements/base.txt (Phase 2 additions)
+djangorestframework-simplejwt==5.3.1
+django-cors-headers==4.4.0
+Pillow==10.4.0          # required for the ImageField on User.avatar
